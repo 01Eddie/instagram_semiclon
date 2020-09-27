@@ -1,0 +1,22 @@
+{
+  "name": "node-instagram-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "node-instagram": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
